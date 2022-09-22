@@ -6,7 +6,7 @@
 - 💞️ I’m looking to collaborate with companies to work on their project and give them something out of my knowledge.
 - You can reach me at my email id vanshchaurasiya1557@gmail.com or at LinkedIn : https://www.linkedin.com/in/vanshchaurasiya24
 - You can connect with me socially on
-- Instagram : https://www.instagram.com/vxnshhh_xxiv
+- Instagram : https://www.instagram.com/vxnshhh.xxiv
 - Twitter : https://www.twitter.com/vanshchaurasiy4
 
 <!---
