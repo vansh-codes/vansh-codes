@@ -6,7 +6,7 @@
 - 📫 How to reach me **vanshchaurasiya1557@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left" padding="10">
+<p align="left" padding="100">
 <a href="https://twitter.com/vanshchaurasiy4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vanshchaurasiy4" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/vanshchaurasiya24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vanshchaurasiya24" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/20559969/vansh-chaurasiya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/20559969/vansh-chaurasiya" height="30" width="40" /></a>
