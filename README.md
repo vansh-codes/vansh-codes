@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vansh-codes&label=Profile%20views&color=0e75b6&style=flat" alt="vansh-codes" /> </p>
 
-- 📫 How to reach me **vanshchaurasiya1557@gmail.com**
+- 📫 Reach me at **vanshchaurasiya1557@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left"; margin-right="10px 30px 10px 10px">
