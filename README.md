@@ -41,3 +41,14 @@
 ![](https://github-contributor-stats.vercel.app/api?username=vansh-codes&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+## Participant in
+<img src="https://github.com/vansh-codes/vansh-codes/assets/114163734/2eeb2115-a8c8-48a6-b95f-0be7efe7d5d7" alt="" height=120px width=700px>
+
+
+## Badges
+<img src="https://github.com/vansh-codes/vansh-codes/assets/114163734/c9f83dcf-e330-4e9c-9620-f1995b916254" alt="" height=150px width=150px>
+<img src="https://github.com/vansh-codes/vansh-codes/assets/114163734/02c799f0-382a-40f7-bfdf-7d97f9467107" alt="" height=150px width=150px>
+<img src="https://github.com/vansh-codes/vansh-codes/assets/114163734/2aff3555-cfd8-45ff-b894-079102a57492" alt="" height=150px width=150px>
+
+
