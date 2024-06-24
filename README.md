@@ -4,9 +4,9 @@
 <h3 align="center">A budding engineer from India</h3>
 <h4 align="center">Pursuing B.Tech from Lovely Professional University, Phagwara, Punjab</h4>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vansh-codes&label=Profile%20views&color=0e75b6&style=flat" alt="vansh-codes" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vansh-codes&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="vansh-codes" /> </p>
 
-- 📫 Reach me at **vanshchaurasiya1557@gmail.com**
+- 📫 Reach me at <a href="mailto:vanshchaurasiya1557@gmail.com">Email</a>
   
 <br>
 
@@ -60,4 +60,4 @@
 
 </div>
 
-
+<p align="right"><a href="#top">TOP</a></p>
