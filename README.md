@@ -76,9 +76,9 @@
 
 ## Badges
 
-| <img src="https://github.com/vansh-codes/vansh-codes/assets/114163734/c9f83dcf-e330-4e9c-9620-f1995b916254" alt="Explorer Badge" height="200px" width="200px"> | <img src="https://github.com/vansh-codes/vansh-codes/assets/114163734/02c799f0-382a-40f7-bfdf-7d97f9467107" alt="Adventurer Badge" height="200px" width="200px"> | <img src="https://github.com/vansh-codes/vansh-codes/assets/114163734/2aff3555-cfd8-45ff-b894-079102a57492" alt="Trailblazer Badge" height="200px" width="200px"> |
-|:--:|:--:|:--:|
-| Explorer Badge | Adventurer Badge | Trailblazer Badge |
+| <img src="https://github.com/vansh-codes/vansh-codes/assets/114163734/c9f83dcf-e330-4e9c-9620-f1995b916254" alt="Explorer Badge" height="200px" width="200px"> | <img src="https://github.com/vansh-codes/vansh-codes/assets/114163734/02c799f0-382a-40f7-bfdf-7d97f9467107" alt="Adventurer Badge" height="200px" width="200px"> | <img src="https://github.com/vansh-codes/vansh-codes/assets/114163734/2aff3555-cfd8-45ff-b894-079102a57492" alt="Trailblazer Badge" height="200px" width="200px"> | <img src="https://github.com/vansh-codes/vansh-codes/assets/114163734/ffe24656-fc34-426b-8459-592bfd318fd4" alt="Summit Seekar Badge" height="200px" width="200px"> | 
+|:--:|:--:|:--:|:--:|
+| Explorer Badge | Adventurer Badge | Trailblazer Badge | Summit Seeker Badge |
 
 </div>
 
