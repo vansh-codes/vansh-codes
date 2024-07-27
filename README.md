@@ -84,11 +84,10 @@
 |:--:|:--:|:--:|:--:|
 | Explorer Badge | Adventurer Badge | Trailblazer Badge | Summit Seeker Badge |
 
-| <img src="https://github.com/vansh-codes/vansh-codes/assets/114163734/86db816e-13cb-4a8d-ab3f-de456b2a4c65" alt="Explorer Badge" height="250px" width="250px"> |
-|:--:|
-| Champion Badge |
-
+| <img src="https://github.com/vansh-codes/vansh-codes/assets/114163734/86db816e-13cb-4a8d-ab3f-de456b2a4c65" alt="Champion Badge" height="200px" width="200px"> | <a href="https://api.badgr.io/public/assertions/8cNDFHmYRqOJZeQYKOXwug?identity__email=vanshchaurasiya1557%40gmail.com" target="_blank"><img width="200px" height="200px" src="https://github.com/user-attachments/assets/24ca3abb-78a9-4d46-b240-1a2b6d47f3f8"></a>
+|:--:| :--: |
+| Champion Badge | Postman API Fundamentals Student Expert |
 
 </div>
 
-<p align="right"><a href="#top">TOP</a></p>
+<p align="right"><a href="#top">Back to TOP 🔝 </a></p>
