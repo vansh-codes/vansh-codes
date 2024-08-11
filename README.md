@@ -73,20 +73,21 @@
 <div align="center">
 
 ## Participant in
-<img src="https://github.com/vansh-codes/vansh-codes/assets/114163734/2eeb2115-a8c8-48a6-b95f-0be7efe7d5d7" alt="" height=120px width=700px>
+<img src="https://github.com/vansh-codes/vansh-codes/assets/114163734/2eeb2115-a8c8-48a6-b95f-0be7efe7d5d7" alt="" height=120px width=600px>
 
 </div>
 <div align="center">
 
-## Badges
+## GSSOC'24 Badges
 
-| <img src="https://github.com/vansh-codes/vansh-codes/assets/114163734/c9f83dcf-e330-4e9c-9620-f1995b916254" alt="Explorer Badge" height="100px" width="100px"> | <img src="https://github.com/vansh-codes/vansh-codes/assets/114163734/02c799f0-382a-40f7-bfdf-7d97f9467107" alt="Adventurer Badge" height="100px" width="100px"> | <img src="https://github.com/vansh-codes/vansh-codes/assets/114163734/2aff3555-cfd8-45ff-b894-079102a57492" alt="Trailblazer Badge" height="100px" width="100px"> | <img src="https://github.com/vansh-codes/vansh-codes/assets/114163734/ffe24656-fc34-426b-8459-592bfd318fd4" alt="Summit Seekar Badge" height="100px" width="100px"> | <img src="https://github.com/vansh-codes/vansh-codes/assets/114163734/86db816e-13cb-4a8d-ab3f-de456b2a4c65" alt="Champion Badge" height="100px" width="100px"> |
-|:--:|:--:|:--:|:--:|:--:|
-| Explorer Badge | Adventurer Badge | Trailblazer Badge | Summit Seeker Badge | Champion Badge |
-
-| <img src="https://github.com/user-attachments/assets/ca470fab-e1f8-45ea-abc3-5adc047b7fb2" alt="Innovator Badge" height="100px" width="100px"> | <a href="https://api.badgr.io/public/assertions/8cNDFHmYRqOJZeQYKOXwug?identity__email=vanshchaurasiya1557%40gmail.com" target="_blank"><img width="100px" height="100px" src="https://github.com/user-attachments/assets/24ca3abb-78a9-4d46-b240-1a2b6d47f3f8"></a> |
-| :--: | :--: |
-| Innovator Badge | Postman API Fundamentals <br> Student Expert |
+<div style='display:flex; align-items:center; gap: 10px;' align='center'>
+<img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/postman.png" width="100px" height="100px" alt="Postman Api Fundamentals Student Expert Badge" />
+  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/1.png" width="100px" height="100px" alt="Explorer Badge" />
+  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/2.png" width="100px" height="100px" alt="Adventurer Badge" />
+  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/3.png" width="100px" height="100px" alt="Trailblazer Badge" />
+  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/4.png" width="100px" height="100px" alt="Summit Seeker Badge" />
+  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/5.png" width="100px" height="100px" alt="Champion Badge" />
+  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/6.png" width="100px" height="100px" alt="Innovator Badge" />
 </div>
 
 <p align="right"><a href="#top">Back to TOP 🔝 </a></p>
