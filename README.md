@@ -35,18 +35,24 @@
 <div align="center">
   <img src="https://skillicons.dev/icons?i=cpp,js,ts,c,py,java" /> 
   <br>
-  <img src="https://skillicons.dev/icons?i=html,css,nodejs,express,react,nextjs,bootstrap,tailwind,vite,php,figma,jquery" />
+  <img src="https://skillicons.dev/icons?i=html,css,nodejs,express,bootstrap,tailwind,vite,figma,jquery" />
   <br>
   <img src="https://skillicons.dev/icons?i=mongodb,mysql,git,github,postman,md,vscode,windows,linux" />
+  <br />
+</div>
+
+### Learning:
+<div align="left">
+<img src="https://skillicons.dev/icons?i=react,nextjs,php" />
 </div>
 
 <br />
 
 # 📊 GitHub Stats:
-  
+
 ![](https://github-readme-stats.vercel.app/api?username=vansh-codes&theme=dark&hide_border=true&include_all_commits=true&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=vansh-codes&theme=dark&hide_border=true) &nbsp;&nbsp;
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vansh-codes&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-streak-stats.herokuapp.com/?user=vansh-codes&theme=dark&hide_border=true) &nbsp;&nbsp;
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
