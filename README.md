@@ -10,9 +10,10 @@
   
 <br>
 
-- **Trophies**
+  <details>
+  <summary><strong>Trophies</strong></summary>
   <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vansh-codes&theme=discord" alt="vansh-codes" /></a> </p>
-  
+  </details>
 
   
 <h3 margin-top:50px>Connect with me:</h3>
@@ -32,61 +33,55 @@
 
 ## Languages and Tools: <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="40" height="30px">
 <div align="center">
-  
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-
+  <img src="https://skillicons.dev/icons?i=cpp,js,ts,c,py,java" /> 
+  <br>
+  <img src="https://skillicons.dev/icons?i=html,css,nodejs,express,bootstrap,tailwind,vite,figma,jquery" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,git,github,postman,md,vscode,windows,linux" />
+  <br />
 </div>
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+### Learning:
+<div align="left">
+<img src="https://skillicons.dev/icons?i=react,nextjs,php" />
+</div>
+
 <br />
 
 # 📊 GitHub Stats:
-  
-![](https://github-readme-stats.vercel.app/api?username=vansh-codes&theme=dark&hide_border=true&include_all_commits=false&count_private=false)
+
+![](https://github-readme-stats.vercel.app/api?username=vansh-codes&theme=dark&hide_border=true&include_all_commits=true&count_private=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=vansh-codes&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=vansh-codes&theme=dark&hide_border=true) &nbsp;&nbsp;
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=vansh-codes&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=vansh-codes&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<details>
+  <summary><strong>Top Contributed Repo🔝</strong></summary>
+<img src="https://github-contributor-stats.vercel.app/api?username=vansh-codes&limit=5&theme=dark&combine_all_yearly_contributions=true"/>
+</details>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 </br>
 <div align="center">
 
 ## Participant in
-<img src="https://github.com/vansh-codes/vansh-codes/assets/114163734/2eeb2115-a8c8-48a6-b95f-0be7efe7d5d7" alt="" height=120px width=700px>
+<img src="https://github.com/vansh-codes/vansh-codes/assets/114163734/2eeb2115-a8c8-48a6-b95f-0be7efe7d5d7" alt="" height=120px width=600px>
 
 </div>
 <div align="center">
 
-## Badges
+## GSSOC'24 Badges
 
-| <img src="https://github.com/vansh-codes/vansh-codes/assets/114163734/c9f83dcf-e330-4e9c-9620-f1995b916254" alt="Explorer Badge" height="100px" width="100px"> | <img src="https://github.com/vansh-codes/vansh-codes/assets/114163734/02c799f0-382a-40f7-bfdf-7d97f9467107" alt="Adventurer Badge" height="100px" width="100px"> | <img src="https://github.com/vansh-codes/vansh-codes/assets/114163734/2aff3555-cfd8-45ff-b894-079102a57492" alt="Trailblazer Badge" height="100px" width="100px"> | <img src="https://github.com/vansh-codes/vansh-codes/assets/114163734/ffe24656-fc34-426b-8459-592bfd318fd4" alt="Summit Seekar Badge" height="100px" width="100px"> | <img src="https://github.com/vansh-codes/vansh-codes/assets/114163734/86db816e-13cb-4a8d-ab3f-de456b2a4c65" alt="Champion Badge" height="100px" width="100px"> |
-|:--:|:--:|:--:|:--:|:--:|
-| Explorer Badge | Adventurer Badge | Trailblazer Badge | Summit Seeker Badge | Champion Badge |
-
-| <img src="https://github.com/user-attachments/assets/ca470fab-e1f8-45ea-abc3-5adc047b7fb2" alt="Innovator Badge" height="100px" width="100px"> | <a href="https://api.badgr.io/public/assertions/8cNDFHmYRqOJZeQYKOXwug?identity__email=vanshchaurasiya1557%40gmail.com" target="_blank"><img width="100px" height="100px" src="https://github.com/user-attachments/assets/24ca3abb-78a9-4d46-b240-1a2b6d47f3f8"></a> |
-| :--: | :--: |
-| Innovator Badge | Postman API Fundamentals <br> Student Expert |
+<div style='display:flex; align-items:center; gap: 10px;' align='center'>
+<img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/postman.png" width="100px" height="100px" alt="Postman Api Fundamentals Student Expert Badge" />
+  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/1.png" width="100px" height="100px" alt="Explorer Badge" />
+  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/2.png" width="100px" height="100px" alt="Adventurer Badge" />
+  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/3.png" width="100px" height="100px" alt="Trailblazer Badge" />
+  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/4.png" width="100px" height="100px" alt="Summit Seeker Badge" />
+  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/5.png" width="100px" height="100px" alt="Champion Badge" />
+  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/6.png" width="100px" height="100px" alt="Innovator Badge" />
 </div>
 
 <p align="right"><a href="#top">Back to TOP 🔝 </a></p>
