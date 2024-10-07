@@ -48,6 +48,38 @@
 
 <br />
 
+ <h2 align='center'><i>🥇 Open Source Projects open for contributions🚀</i></h2>
+<div align="center">
+  <table>
+    <thead align="center">
+      <tr border: none;>
+        <td><b>💻 Projects</b></td>
+        <td><b>🌟 Stars</b></td>
+        <td><b>🍴 Forks</b></td>
+        <td><b>🐛 Issues</b></td>
+        <td><b>🔔 Pull Requests</b></td>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+	      <td><a href="https://github.com/vansh-codes/Gityzer"><b>🚀Gityzer</b></a></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/vansh-codes/Gityzer?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/vansh-codes/Gityzer?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Issues" src="https://img.shields.io/github/issues/vansh-codes/Gityzer?style=flat-square"/></td>
+        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/vansh-codes/Gityzer?style=flat-square"/></td>
+      </tr>
+      <tr>
+	      <td><a href="https://github.com/vansh-codes/ChaosWeb"><b>😵‍💫ChaosWeb</b></a></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/vansh-codes/ChaosWeb?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/vansh-codes/ChaosWeb?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Issues" src="https://img.shields.io/github/issues/vansh-codes/ChaosWeb?style=flat-square"/></td>
+        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/vansh-codes/ChaosWeb?style=flat-square"/></td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+<br>
+
 # 📊 GitHub Stats:
 
 ![](https://github-readme-stats.vercel.app/api?username=vansh-codes&theme=dark&hide_border=true&include_all_commits=true&count_private=false)
@@ -73,15 +105,16 @@
 <div align="center">
 
 ## GSSOC'24 Badges
-
-<div style='display:flex; align-items:center; gap: 10px;' align='center'>
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/postman.png" width="100px" height="100px" alt="Postman Api Fundamentals Student Expert Badge" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/1.png" width="100px" height="100px" alt="Explorer Badge" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/2.png" width="100px" height="100px" alt="Adventurer Badge" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/3.png" width="100px" height="100px" alt="Trailblazer Badge" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/4.png" width="100px" height="100px" alt="Summit Seeker Badge" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/5.png" width="100px" height="100px" alt="Champion Badge" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/6.png" width="100px" height="100px" alt="Innovator Badge" />
-</div>
+<table align="center">
+  <tr>
+    <td><img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/postman.png" width="100px" height="100px" alt="Postman Api Fundamentals Student Expert Badge" /></td>
+    <td><img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/1.png" width="100px" height="100px" alt="Explorer Badge" /></td>
+    <td><img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/2.png" width="100px" height="100px" alt="Adventurer Badge" /></td>
+    <td><img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/3.png" width="100px" height="100px" alt="Trailblazer Badge" /></td>
+    <td><img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/4.png" width="100px" height="100px" alt="Summit Seeker Badge" /></td>
+    <td><img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/5.png" width="100px" height="100px" alt="Champion Badge" /></td>
+    <td><img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/6.png" width="100px" height="100px" alt="Innovator Badge" /></td>
+  </tr>
+</table>
 
 <p align="right"><a href="#top">Back to TOP 🔝 </a></p>
