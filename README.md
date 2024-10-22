@@ -75,12 +75,14 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vansh-codes&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=vansh-codes&theme=dark&hide_border=true) &nbsp;&nbsp;
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+<details>
+<summary><h4>✍️ Random Dev Quote<h4></summary>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+</details>
 
 <details>
-  <summary><strong>Top Contributed Repo🔝</strong></summary>
-<img src="https://github-contributor-stats.vercel.app/api?username=vansh-codes&limit=5&theme=dark&combine_all_yearly_contributions=true"/>
+  <summary><h4>Top Contributed Repo🔝</h4></summary>
+  <img src="https://github-contributor-stats.vercel.app/api?username=vansh-codes&limit=5&theme=dark&combine_all_yearly_contributions=true"/>
 </details>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
@@ -110,13 +112,13 @@
 ## GSSOC'24 Badges
 <table align="center">
   <tr>
-    <td><img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/postman.png" width="100px" height="100px" alt="Postman Api Fundamentals Student Expert Badge" /></td>
-    <td><img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/1.png" width="100px" height="100px" alt="Explorer Badge" /></td>
-    <td><img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/2.png" width="100px" height="100px" alt="Adventurer Badge" /></td>
-    <td><img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/3.png" width="100px" height="100px" alt="Trailblazer Badge" /></td>
-    <td><img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/4.png" width="100px" height="100px" alt="Summit Seeker Badge" /></td>
-    <td><img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/5.png" width="100px" height="100px" alt="Champion Badge" /></td>
-    <td><img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/6.png" width="100px" height="100px" alt="Innovator Badge" /></td>
+    <td><img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" alt="Postman Api Fundamentals Student Expert Badge" /></td>
+    <td><img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="100px" height="100px" alt="Explorer Badge" /></td>
+    <td><img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="100px" height="100px" alt="Adventurer Badge" /></td>
+    <td><img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="100px" height="100px" alt="Trailblazer Badge" /></td>
+    <td><img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="100px" height="100px" alt="Summit Seeker Badge" /></td>
+    <td><img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="100px" height="100px" alt="Champion Badge" /></td>
+    <td><img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/6.png" width="100px" height="100px" alt="Innovator Badge" /></td>
   </tr>
 </table>
 
