@@ -24,16 +24,16 @@
 <div align="center">
   <img src="https://skillicons.dev/icons?i=cpp,js,ts,c,py,java" /> 
   <br>
-  <img src="https://skillicons.dev/icons?i=html,css,nodejs,express,bootstrap,tailwind,vite,figma,jquery" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,nodejs,express,bootstrap,tailwind,vite,figma,jquery" />
   <br>
   <img src="https://skillicons.dev/icons?i=mongodb,mysql,git,github,postman,md,vscode,windows,linux" />
   <br />
 </div>
 
-### Learning:
+<!-- ### Learning:
 <div align="left">
 <img src="https://skillicons.dev/icons?i=react,nextjs,php" />
-</div>
+</div> -->
 
 <br />
 
@@ -76,14 +76,14 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=vansh-codes&theme=dark&hide_border=true) &nbsp;&nbsp;
 
 <details>
-<summary><h4>✍️ Random Dev Quote<h4></summary>
+<summary><strong>✍️ Random Dev Quote</strong></summary>
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
 </details>
 
-<details>
-  <summary><h4>Top Contributed Repo🔝</h4></summary>
+<!-- <details>
+  <summary><strong>Top Contributed Repo🔝</strong></summary>
   <img src="https://github-contributor-stats.vercel.app/api?username=vansh-codes&limit=5&theme=dark&combine_all_yearly_contributions=true"/>
-</details>
+</details> -->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 </br>
