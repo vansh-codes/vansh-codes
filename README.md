@@ -89,6 +89,7 @@
 </br>
 <div align="center">
 
+<!--
 ## Participant in
 <div align="center">
   <table>
@@ -121,6 +122,8 @@
     <td><img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/6.png" width="100px" height="100px" alt="Innovator Badge" /></td>
   </tr>
 </table>
+
+-->
 
 ## Hacktoberfest'24 Badges
 
