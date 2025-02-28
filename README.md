@@ -4,7 +4,7 @@
 <h3 align="center">A budding engineer from India</h3>
 <h4 align="center">Pursuing B.Tech from Lovely Professional University, Phagwara, Punjab</h4>
 <p align="center">
-	<a href="https://vansh-codes.github.io">Profile</a> - 
+	<a href="https://vanshchaurasiya.me">Portfolio</a> - 
 	<a href="https://linkedin.com/in/vanshchaurasiya24">LinkedIn</a> - 
 	<a href="mailto:vanshchaurasiya1557@gmail.com">Email</a> - 
 	<a href="https://x.com/VanshChaurasiy4">X</a> -
