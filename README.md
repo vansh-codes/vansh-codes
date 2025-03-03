@@ -127,6 +127,6 @@
 
 ## Hacktoberfest'24 Badges
 
-[![An image of @vanshcodes's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/vanshcodes)](https://holopin.io/@vanshcodes)
+[![An image of @vanshcodes's Holopin badge](https://holopin.me/vanshcodes)](https://holopin.io/@vanshcodes)
 
 <p align="right"><a href="#top">Back to TOP 🔝 </a></p>
