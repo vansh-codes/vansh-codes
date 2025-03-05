@@ -6,7 +6,7 @@
 <p align="center">
 	<a href="https://vanshchaurasiya.me">Portfolio</a> - 
 	<a href="https://linkedin.com/in/vanshchaurasiya24">LinkedIn</a> - 
-	<a href="mailto:vanshchaurasiya1557@gmail.com">Email</a> - 
+	<a href="mailto:contact@vanshchaurasiya.me">Email</a> - 
 	<a href="https://x.com/VanshChaurasiy4">X</a> -
 	<a href="https://medium.com/@vanshchaurasiya1557">Medium</a>
 </p>
