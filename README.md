@@ -37,7 +37,7 @@
 
 <br />
 
- <h2 align='center'><i>🥇 Open Source Projects open for contributions🚀</i></h2>
+ <h2 align='center'><i>🥇 Open Source Project open for contributions🚀</i></h2>
 <div align="center">
   <table>
     <thead align="center">
@@ -57,13 +57,13 @@
         <td><img alt="Issues" src="https://img.shields.io/github/issues/vansh-codes/Gityzer?style=flat-square"/></td>
         <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/vansh-codes/Gityzer?style=flat-square"/></td>
       </tr>
-      <tr>
+<!--       <tr>
 	<td><a href="https://github.com/vansh-codes/ChaosWeb"><b>😵‍💫ChaosWeb</b></a></td>
         <td><img alt="Stars" src="https://img.shields.io/github/stars/vansh-codes/ChaosWeb?style=flat-square&labelColor=343b41"/></td>
         <td><img alt="Forks" src="https://img.shields.io/github/forks/vansh-codes/ChaosWeb?style=flat-square&labelColor=343b41"/></td>
         <td><img alt="Issues" src="https://img.shields.io/github/issues/vansh-codes/ChaosWeb?style=flat-square"/></td>
         <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/vansh-codes/ChaosWeb?style=flat-square"/></td>
-      </tr>
+      </tr> -->
     </tbody>
   </table>
 </div>
