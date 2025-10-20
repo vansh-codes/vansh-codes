@@ -9,7 +9,8 @@
 	<a href="https://linkedin.com/in/vanshchaurasiya24">LinkedIn</a> - 
 	<a href="mailto:contact@vanshchaurasiya.me">Email</a> - 
 	<a href="https://x.com/VanshChaurasiy4">X</a> -
-	<a href="https://medium.com/@vanshchaurasiya1557">Medium</a>
+	<a href="https://medium.com/@vanshchaurasiya1557">Medium</a> -
+	<a href="https://dev.to/vansh-codes">Dev.to</a>
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vansh-codes&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="vansh-codes" /> </p>
