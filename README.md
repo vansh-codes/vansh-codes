@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 
 <h1 align="center">Hi there👋, I'm Vansh Chaurasiya</h1>
-<h3 align="center">A budding engineer from India</h3>
+<h3 align="center">A Software Developer from India</h3>
 <h4 align="center">I'm currently working as a Software Developer @GoComet, Bengaluru</h4>
 <h4 align="center">B.Tech from Lovely Professional University'2026</h4>
 <p align="center">
