@@ -2,8 +2,8 @@
 
 <h1 align="center">Hi there👋, I'm Vansh Chaurasiya</h1>
 <h3 align="center">A budding engineer from India</h3>
-<h4 align="center">I'm currently a Front End Intern @GoComet, Bengaluru</h4>
-<h4 align="center">Pursuing B.Tech from Lovely Professional University, Phagwara, Punjab</h4>
+<h4 align="center">I'm currently working as a Software Developer @GoComet, Bengaluru</h4>
+<h4 align="center">B.Tech from Lovely Professional University'2026</h4>
 <p align="center">
 	<a href="https://vanshchaurasiya.me">Portfolio</a> - 
 	<a href="https://linkedin.com/in/vanshchaurasiya24">LinkedIn</a> - 
